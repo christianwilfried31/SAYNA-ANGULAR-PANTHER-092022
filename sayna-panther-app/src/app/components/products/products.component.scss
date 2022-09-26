@@ -1,0 +1,37 @@
+@import '../../../assets/styles/base/colors';
+@import '../../../assets/styles/base/typo';
+
+section {
+  margin-bottom: 100px;
+}
+
+.container {
+  h1, .card-body {
+    font-family: 'cantarell';
+    color: $color-white;
+  }
+  .filter {
+    // padding-left: 90px;
+    font-family: 'cantarell';
+    color: $color-white;
+  }
+  .results {
+    display: flex;
+    justify-content: space-between;
+    .arrow {
+      color: $color-plum;
+    }
+  }
+  .card {
+    // &:hover {
+    //   scale: 1.1;
+    // }
+    .card-img-top {
+      cursor: pointer;
+    }
+  }
+  .pages {
+    color: $color-white;
+    font-family: 'cantarell';
+  }
+}

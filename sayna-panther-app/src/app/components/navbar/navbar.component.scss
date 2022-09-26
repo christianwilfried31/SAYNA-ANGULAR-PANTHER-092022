@@ -1,0 +1,38 @@
+@import '../../../assets/styles/base/colors';
+@import '../../../assets/styles/base/typo';
+
+nav {
+  width: 80%;
+  padding: 20px 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    a {
+      text-decoration: none;
+      color: $color-white;
+      font-family: 'beyno';
+      font-size: 20px;
+      text-transform: uppercase;
+      display: block;
+      padding: 30px;
+      &:hover {
+        transform: scale(1.1);
+        color: $color-plum;
+        filter: drop-shadow(0 0 20px red);
+      }
+      &.active {
+        text-decoration: underline;
+        font-weight: bolder;
+        color: $color-snuff;
+      }
+    }
+  }
+  .hamburger {
+    opacity: 0;
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "products": [
+    {"id":"1","title":"T-SHIRT","url":"https://i.postimg.cc/4ynpDKyp/article-1.jpg","category":"suit","universe":"Black Panther","price":"25","quantity":"3","description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."},
+    {"id":"2","title":"SAC A DOS","url":"https://i.postimg.cc/m2JSGSQk/article-2.jpg","category":"bag","universe":"Black Panther","price":"25","quantity":"3","description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."},
+    {"id":"3","title":"MONTRE","url":"https://i.postimg.cc/V6fqFZcG/article-3.jpg","category":"accessory","universe":"Black Panther","price":"25","quantity":"3","description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."},
+    {"id":"4","title":"T-SHIRT CUSTOMISÉ","url":"https://i.postimg.cc/gJgvtyzY/article-4.jpg","category":"suit","universe":"Black Panther","price":"25","quantity":"3","description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."},
+    {"id":"5","title":"SAC A DOS","url":"https://i.postimg.cc/tRm3hzvk/article-5.jpg","category":"bag","universe":"Black Panther","price":"25","quantity":"3","description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."},
+    {"id":"6","title":"TASSE","url":"https://i.postimg.cc/hGqbXPZq/article-6.jpg","category":"accessory","universe":"Black Panther","price":"25","quantity":"3","description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."},
+    {"id":"7","title":"GOURDE ISOTHERME","url":"https://i.postimg.cc/VLrj4b38/article-15.jpg","category":"accessory","universe":"Black Panther","price":"25","quantity":"3","description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."},
+    {"id":"8","title":"COSTUME","url":"https://i.postimg.cc/Bby24qPk/article-8.jpg","category":"suit","universe":"Black Panther","price":"25","quantity":"3","description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."},
+    {"id":"9","title":"SAC A DOS","url":"https://i.postimg.cc/t4FFGGqv/article-12.jpg","category":"bag","universe":"Black Panther","price":"25","quantity":"3","description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."},
+    {"id":"10","title":"AIRPODS","url":"https://i.postimg.cc/fRdfW0KK/article-7.jpg","category":"accessory","universe":"Black Panther","price":"25","quantity":"3","description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."}
+  ],
+  "quizzes": [
+    {
+      "id": "1","trick": {"title":"Voici la transcription de l’alphabet","content":"A=A;B=b;c=c;d=d;e=e;f=f;g=g;h=h;i=i;j=j; k=k;l=l;m=m;n=n;o=o;p=p;q=q;r=r;s=s;t=t;u=u;w=w;x=x;y=y;z=z"},"quizz": {"title":"ENIGME NUMERO","q1":"Prouve ton talent d’espion et déchiffre cette réplique d’Okoyé écrite en Wakandais, et apprend par la même occasion la première valeur d’une Dora Milaje !","q2":"“ SI JE SUIS FIDELE C’EST A CE TRONE PEU IMPORTE QUI MONTE DESSUS ”"}
+    },
+    {
+      "id": "2","trick": {"title":"Le savais tu ?","content":"Plusieurs sources s’entendent pour dire que la lettre la plus utilisée en français est la lettre E. En pourcentage de fréquence, la lettre est utilisée à 14% dans une phrase. Et si tu regardais quel symbole revient le plus souvent pour en déduire son décalage dans l’alphabet ?"},"quizz": {"title":"ENIGME NUMERO","q1":"Une anecdote intéressante est écrite juste en dessous mais elle est codée par un code césar également appelé code de “chiffrement par décalage”. L’alphabet a été décalé, trouve la clé de chiffrement qui te permettrait de retrouver les lettres et retranscris la phrase :","q2":"Tm nqtu lmjcbm i Wikstivl mv Kitqnwzvqm. Qt a'ioqb lm ti dqttm lwvb mab wzqoqviqzm Zgiv Kwwotmz mb moitmumvb ti dqttm ycq i dc viqbzm tm uwcdmumvb xwtqbqycm lma jtiks xivbpmza"}
+    },
+    {
+      "id": "3","trick": {"title":"Le savais tu ?","content":"Le philosophe Francis Bacon inventa en 1605 un alphabet bilitère, uniquement composé des deux lettres A et B. C'est en quelque sorte l'ancêtre du système binaire des ordinateurs actuels car toute lettre pouvait être construite avec un enchainement précis de ces deux lettres, tandis que le système binaire informatique utilise 0 et 1."},"quizz": {"title":"ENIGME NUMERO","q1":"Lorsque T’Challa mange l’herbe en forme de coeur pour recevoir les pouvoirs du Black Panther, il voit son père afin de lui demander conseil afin de devenir un bon roi. Cette scène rappelle la même scène d’un certain film où un père dit à son fils de ne pas oublier qui il est et d’où il vient. Quel est ce film ?","q2":"01001100 01000101 00100000 01010010 01001111 01001001 00100000 01001100 01001001 01001111 01001110 00001101 00001010"}
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dignissim elit id turpis scelerisque mollis. Nulla vehicula velit augue, ut maximus est porttitor quis. Morbi finibus, nulla non consectetur convallis, eros mi sollicitudin metus, id sollicitudin nunc ligula eu dui.",
+      "author": "ELON MUSK",
+      "date": "31.01.22",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dignissim elit id turpis scelerisque mollis. Nulla vehicula velit augue, ut maximus est porttitor quis. Morbi finibus, nulla non consectetur convallis, eros mi sollicitudin metus, id sollicitudin nunc ligula eu dui.",
+      "author": "MARK ZUKERBERG",
+      "date": "23.09.22",
+      "postId": "2"
+    },
+    {
+      "id": "3",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dignissim elit id turpis scelerisque mollis. Nulla vehicula velit augue, ut maximus est porttitor quis. Morbi finibus, nulla non consectetur convallis, eros mi sollicitudin metus, id sollicitudin nunc ligula eu dui.",
+      "author": "FRED SWANIKER",
+      "date": "07.06.12",
+      "postId": "3"
+    },
+    {
+      "id": "4",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dignissim elit id turpis scelerisque mollis. Nulla vehicula velit augue, ut maximus est porttitor quis. Morbi finibus, nulla non consectetur convallis, eros mi sollicitudin metus, id sollicitudin nunc ligula eu dui.",
+      "author": "REBECCA ENONCHONG",
+      "date": "11.10.21",
+      "postId": "4"
+    },
+    {
+      "id": "5",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dignissim elit id turpis scelerisque mollis. Nulla vehicula velit augue, ut maximus est porttitor quis. Morbi finibus, nulla non consectetur convallis, eros mi sollicitudin metus, id sollicitudin nunc ligula eu dui.",
+      "author": "STEVE JOBS",
+      "date": "11.09.01",
+      "postId": "5"
+    },
+    {
+      "id": "6",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dignissim elit id turpis scelerisque mollis. Nulla vehicula velit augue, ut maximus est porttitor quis. Morbi finibus, nulla non consectetur convallis, eros mi sollicitudin metus, id sollicitudin nunc ligula eu dui.",
+      "author": "BILL GATES",
+      "date": "29.05.86",
+      "postId": "6"
+    },
+    {
+      "id": "7",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dignissim elit id turpis scelerisque mollis. Nulla vehicula velit augue, ut maximus est porttitor quis. Morbi finibus, nulla non consectetur convallis, eros mi sollicitudin metus, id sollicitudin nunc ligula eu dui.",
+      "author": "PAUL BIYA",
+      "date": "11.05.86",
+      "postId": "7"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
